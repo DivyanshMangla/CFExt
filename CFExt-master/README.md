@@ -1,5 +1,5 @@
-# GifForces
-GifForces is a browser extension that works with [Codeforces.com](https://codeforces.com/) 
+# CFExtension
+CFExtension is a browser extension that works with [Codeforces.com](https://codeforces.com/) 
 
 If you are a regular user of codeforces you would have noticed that sometimes it takes quite a long time for them to judge your submission. Why stare at the submission's page till then? Let the extension check the result of your last submission while you continue to solve problems. Additionally, celebrate your ACs with apt gifs.
 
